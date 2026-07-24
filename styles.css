@@ -1,4 +1,4 @@
-:root{--ink:#2B3320;--ink-soft:#4B5539;--teal:#7A2A45;--teal-dark:#551E31;--marigold:#E2761F;--sky:#8FD3EA;--paper:#FBF6EA;--fog:#E6DDC6;--white:#FFFFFF;--radius:2px;--max:1180px;font-size:16px;}
+:root{--ink:#3A3B21;--ink-soft:#4B5539;--teal:#A32C63;--teal-dark:#551E31;--marigold:#E2761F;--sky:#8FD3EA;--paper:#FBF6EA;--fog:#E6DDC6;--white:#FFFFFF;--radius:2px;--max:1180px;font-size:16px;}
 @media (prefers-reduced-motion: reduce){*{animation-duration:.001ms !important; animation-iteration-count:1 !important; transition-duration:.001ms !important; scroll-behavior:auto !important;}}
 *{box-sizing:border-box;}
 html{scroll-behavior:smooth;}
@@ -193,7 +193,7 @@ footer a{color:#B9C6C4;text-decoration:none;display:block;margin-bottom:.6em;fon
 footer a:hover{color:var(--white);}
 .footer-bottom{border-top:1px solid rgba(255,255,255,.12);padding-top:22px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;font-family:'IBM Plex Mono',monospace;font-size:.78rem;color:#8CA09D;}
 
-:root{--ink:#2B3320;--ink-soft:#4B5539;--teal:#7A2A45;--teal-dark:#551E31;--marigold:#E2761F;--sky:#8FD3EA;--paper:#FBF6EA;--fog:#E6DDC6;--white:#FFFFFF;--radius:2px;--max:1180px;font-size:16px;}
+:root{--ink:#3A3B21;--ink-soft:#4B5539;--teal:#A32C63;--teal-dark:#551E31;--marigold:#E2761F;--sky:#8FD3EA;--paper:#FBF6EA;--fog:#E6DDC6;--white:#FFFFFF;--radius:2px;--max:1180px;font-size:16px;}
 @media (prefers-reduced-motion: reduce){*{animation-duration:.001ms !important; animation-iteration-count:1 !important; transition-duration:.001ms !important; scroll-behavior:auto !important;}}
 *{box-sizing:border-box;}
 html{scroll-behavior:smooth;}
@@ -269,13 +269,6 @@ footer h4{color:var(--white);font-size:.85rem;text-transform:uppercase;letter-sp
 footer a{color:#B9C6C4;text-decoration:none;display:block;margin-bottom:.6em;font-size:.92rem;}
 footer a:hover{color:var(--white);}
 .footer-bottom{border-top:1px solid rgba(255,255,255,.12);padding-top:22px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;font-family:'IBM Plex Mono',monospace;font-size:.78rem;color:#8CA09D;}
-
-:root {
-    --ink: #3A3B21;
-    --teal: #A32C63;
-    --marigold: #E2761F;
-    --sky: #8FD3EA;
-  }
 
 :root{--ink:#2B3320;--ink-soft:#4B5539;--teal:#7A2A45;--teal-dark:#551E31;--marigold:#E2761F;--sky:#8FD3EA;--paper:#FBF6EA;--fog:#E6DDC6;--white:#FFFFFF;--radius:2px;--max:1180px;font-size:16px;}
 @media (prefers-reduced-motion: reduce){*{animation-duration:.001ms !important; animation-iteration-count:1 !important; transition-duration:.001ms !important; scroll-behavior:auto !important;}}
