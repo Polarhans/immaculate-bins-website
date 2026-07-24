@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://polarhans.github.io/immaculate-bins-website/services/</loc>
+    <lastmod>2026-07-24T14:45:42.918Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://polarhans.github.io/immaculate-bins-website/pricing/</loc>
     <lastmod>2026-07-24T14:45:37.266Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,11 +23,6 @@
   <url>
     <loc>https://polarhans.github.io/immaculate-bins-website/</loc>
     <lastmod>2026-07-24T14:45:21.763Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://polarhans.github.io/immaculate-bins-website/services/</loc>
-    <lastmod>2026-07-24T14:44:47.411Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
